@@ -1,0 +1,92 @@
+body{
+    background:url(admin.jpg);
+}
+.card{
+  box-shadow: 13px 13px 13px #cbced1,-13px -13px 20px #cbced1;
+  transition: 0.3s;
+  width: 239.5%;
+  margin-bottom: 40%;
+  border-radius: 10px;
+  margin-left:-34%;
+  background-color:white;
+  height:320px;
+
+}
+.right-panel .card{
+  box-shadow: 13px 13px 13px #cbced1,-13px -13px 20px #cbced1;
+  transition: 0.3s;
+  width: 350%;
+  margin-bottom: 40%;
+  border-radius: 10px;
+  margin-left:-71%;
+  background-color:white;
+  height:300px;
+}
+.menu-title {
+font-size: 20px;
+margin-left: 20%;
+text-decoration: underline 2px black;
+}
+.menu-item-has-children{
+  
+font-size: 20px;
+padding: 6px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-left: 14%;
+color:   #e75480;
+text-align: left;
+
+}
+a:link {
+  text-decoration: none;
+  color:  #fff;
+  
+
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #DB7093;;
+  }
+  
+  a:active {
+    text-decoration: none;
+  
+  }
+  .header .user-area{
+    margin-left:50%;
+    margin-top: 600px;
+    
+  }
+  .right-panel{
+    margin-left:41%;
+    font-size:20px;
+  font-style: bold;
+  color:#DB7093;
+    
+    
+  }
+  .top-right{
+    margin-bottom:-60%;
+    color:#DB7093;
+  }
+  .top-right .nav-link{
+    float:right;
+    margin-top:-125%;
+    margin-right:25%;
+    font-size:30px;
+
+    float:right;
+    background-color: #e75480;
+   
+    border:9px outset #e75480;
+  }
+  
+  .admin{
+    color: #e75480;
+    font-size: 20px;
+
+  }
